@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequias Torczuk</h1>
-<h3 align="center">A frontend developer from Argentina</h3>
+<h3 align="center">A full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [alexe1's portfolio](https://mrdadoxx.github.io/alexe1/)
+- 🔭 I’m currently working on [Valopack]
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **mrdadoxx@gmail.com**
 
