@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ezequias Torczuk 👋</h1>
-<h3 align="center">A full-stack developer from Argentina</h3>
+<h1>Hi, I'm Ezequias Torczuk 👋</h1>
+<h3>A full-stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Valopack**
 
