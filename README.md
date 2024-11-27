@@ -1,15 +1,18 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computadora" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left"> 
-  Soy Ezequias Torczuk, desarrollador web de Argentina especializado en FrontEnd
+  Soy Ezequias Torczuk
 </h1>
+<h2 align="left">
+  Desarrollador web de Argentina especializado en FrontEnd
+</h2>
 
 <p align="left">
-  🦄 *Tecnologías:* HTML, CSS, JavaScript, TypeScript, ReactJS, Astro, TailwindCSS, Zustand, NodeJS y Express
+  🦄 <b>Tecnologías</b> HTML, CSS, JavaScript, TypeScript, ReactJS, Astro, TailwindCSS, Zustand, NodeJS y Express
 </p>
 
 <p align="left">
-  💼 *Herramientas:* **Figma, Powershell, Vercel, Github, Git y Visual Studio Code**
+  💼 <b>Herramientas:</b> Figma, Powershell, Vercel, Github, Git y Visual Studio Code
 </p>
 
 <b align="left">
