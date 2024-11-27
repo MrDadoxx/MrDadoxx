@@ -1,16 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Soy Ezequias Torczuk, desarrollador web especializado en FrontEnd
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Tecnologías: **HTML, CSS, JavaScript, TypeScript, ReactJS, Astro, TailwindCSS, Zustand, NodeJS y Express**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Herramientas: **Figma, Powershell, Vercel, Github, Git y Visual Studio Code**
 </p>
 
 <p align="left">
